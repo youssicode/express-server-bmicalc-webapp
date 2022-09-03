@@ -1,0 +1,20 @@
+h1 {
+    color: purple;
+}
+form {
+    background-color: #ccc;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+label {
+    font-size: 1.5rem;
+    flex: 1 0 250px;
+}
+input[type='submit'] {
+    font-size: 1.2rem;
+    padding: 5px;
+    background-color: lime;
+}
